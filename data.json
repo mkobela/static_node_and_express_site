@@ -1,0 +1,94 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "Popluar quotes in random succession",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://mkobela.github.io/random-quote-generator/",
+            "github_link": "https://github.com/mkobela/random-quote-generator",
+            "images_urls": [
+                "../static/img/randomQuote_550x550.png",
+                "../static/img/randomQuote01_1200x550.png",
+                "../static/img/randomQuote02_1200x550.png"
+            ]
+        },
+        {
+            "id": "1",
+            "project_name": "Data Pagination and Filtering",
+            "description": "Display student list with pagination and filtering",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://mkobela.github.io/data-pagination-and-filtering/",
+            "github_link": "https://github.com/mkobela/data-pagination-and-filtering",
+            "images_urls": [
+                "../static/img/pagination_550x550.png",
+                "../static/img/pagination01_1200x550.png",
+                "../static/img/pagination02_1200x550.png"
+            ]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive Form",
+            "description": "Processing form with validation",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://mkobela.github.io/interactive-form/",
+            "github_link": "https://github.com/mkobela/interactive-form",
+            "images_urls": [
+                "../static/img/form_550x550.png",
+                "../static/img/form01_1200x550.png",
+                "../static/img/form02_1200x550.png",
+                "../static/img/form03_1200x550.png"
+            ]
+        },
+        {
+            "id": "3",
+            "project_name": "OOP Game",
+            "description": "Guess the phrase game",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Classes"
+            ],
+            "live_link": "https://mkobela.github.io/oop_game/",
+            "github_link": "https://github.com/mkobela/oop_game",
+            "images_urls": [
+                "../static/img/game_550x550.png",
+                "../static/img/game01_1200x550.png",
+                "../static/img/game02_1200x550.png",
+                "../static/img/game03_1200x550.png"
+            ]
+        },
+        {
+            "id": "4",
+            "project_name": "Public API Request",
+            "description": "Access employee records using Fetch",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Fetch"
+            ],
+            "live_link": "https://mkobela.github.io/public_api_request/",
+            "github_link": "https://github.com/mkobela/public_api_request",
+            "images_urls": [
+                "../static/img/publicAPI_550x550.png",
+                "../static/img/publicAPI01_1200x550.png",
+                "../static/img/publicAPI02_1200x550.png",
+                "../static/img/publicAPI03_1200x550.png"
+            ]
+        }
+    ]
+}
