@@ -56,13 +56,15 @@ app.listen(3000, () => {
  * @property {res} resonse - HTTP response object
 ***/
 function errorHandler(res){
+  const message = 'Oops, that page does not exist!';
+
   // log error to console
-  const error = new Error('Page Not Found');
+  const error = new Error(message);
   error.status = 404;
-  console.log(error);
+  console.log(error.message);
 
   // now send user friendly message to agent
   res.writeHead(error.status);
-  res.write('<h1>Oops, that page does not exist!</h1>');
+  res.write(`<h1>${message}</h1>`);
   res.end();
 }
